@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio of my experiments, coerces and work with Data Science and Data Analysis
+Portfolio of my experiments, courses and work with Data Science and Data Analysis
